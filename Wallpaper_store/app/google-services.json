@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "169587366889",
+    "firebase_url": "https://wallpaper-d7575.firebaseio.com",
+    "project_id": "wallpaper-d7575",
+    "storage_bucket": "wallpaper-d7575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169587366889:android:be39a89c1dc7cb28",
+        "android_client_info": {
+          "package_name": "vudinhthanh.wallpaper.wallpaper_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169587366889-385nnns9jhr12anttsvnqp3pdo213va7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1j-mSn5K5X1pAA4jbg5Ze5CdA3UrdUjk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
